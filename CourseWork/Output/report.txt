@@ -1,0 +1,25 @@
+|      Звіт продуктів      |
+
+	Продукти на кухні: 
+	Rice: 75 грам
+	Nori: 100 грам
+	Somga: 200 грам
+	Cucumber: 200 грам
+	Caviar: 250 грам
+
+	Продукти на складі: 
+	Crab mince: 200 грам
+	Salmon: 1000 грам
+
+		Коди продуктів:
+		0a2cbfbe-d6fc-4e17-8ba7-c08c5bdf8de8: Rice
+		c7d7ebe4-3823-4824-b27b-2e75a7e9b47b: Nori
+		87f86e32-78f1-4c7e-98ab-19a352ce5c4c: Cheese
+		d0b1b324-6d4c-4787-85db-8e76c9e08028: Somga
+		9e7bd6cd-4c24-4e93-9c4f-bffdf04d73e6: Salmon
+		af0384c6-8f9f-4ab1-b0b5-cf768b5eb2d1: Cucumber
+		38bbbe6c-dc2e-4906-9b17-865e6c482eaf: Crab mince
+		cbdbfe13-bb32-4cf4-9f36-5c2c9205e41f: Wasabi
+		fd14e07c-96fc-4642-b0f1-372cff3d17ab: Sauce
+		1af29c5e-f600-4b08-b277-fd2f299eddc7: Caviar
+
